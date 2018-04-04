@@ -1,0 +1,10 @@
+/.gradle/
+dist/
+**/build
+**/.classpath
+**/.project
+**/bin
+**/.factorypath
+**/org.eclipse.buildship.core.prefs
+**/org.eclipse.jdt.core.prefs
+**/org.eclipse.jdt.apt.core.prefs
